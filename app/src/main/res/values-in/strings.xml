@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <string name="nowplaying">Sedang Tayang</string>
+    <string name="upcoming">Akan Datang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">Judul Film</string>
+    <string name="tahun_movie">Tahun Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Favorit</string>
+    <string name="empty_fav">Film Favorit Kosong</string>
+    <string name="toast_fav_add">Ditambahkan ke Film Favorit</string>
+    <string name="toast_fav_remove">Dihapus dari Film Favorit</string>
+    <string name="change_language_setting">Ganti Bahasa</string>
+    <string name="search">Cari</string>
+    <string name="search_fragment">Cari Film</string>
+    <string name="edt_search_movie">Cari Film</string>
+    <string name="favorite_movies">Film Favorit</string>
+    <string name="fav_mov_empty">Film Favorit Kosong</string>
+    <string name="reminder_setting">Pengaturan Pengingat</string>
+    <string name="content_title">Selamat Pagi! Sedang Mencari Film yang Bagus?</string>
+    <string name="content_text">Buka Aplikasi kita sekarang!</string>
+    <string name="subtext">Pengingat Harian</string>
+
+
+
+    <string name="summary_daily">Nyalakan atau Matikan Notifikasi Harian</string>
+    <string name="daily_notification">Notifikasi Harian</string>
+    <string name="release_notification">Notifikasi Rilis Hari Ini</string>
+    <string name="release_summary">Nyalakan atau Matikan Notifikasi Rilis Hari Ini</string>
+    <string name="daily_reminder">daily_reminder</string>
+    <string name="release_reminder">release_reminder</string>
+    <string name="contenttext_today">Hari ini</string>
+    <string name="contenttext_release">rilis!</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/now_playing"
+        android:title="@string/nowplaying"
+        android:icon="@drawable/now_playing" />
+
+    <item
+        android:id="@+id/up_coming"
+        android:title="@string/upcoming"
+        android:icon="@drawable/up_coming"/>
+
+    <item
+        android:id="@+id/favorite"
+        android:title="@string/favorite"
+        android:icon="@drawable/favorite"
+        />
+
+    <item
+        android:id="@+id/search_menu"
+        android:title="@string/search"
+        android:icon="@drawable/search"
+        />
+
+
+</menu>

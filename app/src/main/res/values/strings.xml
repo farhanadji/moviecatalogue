@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="nowplaying">Now Playing</string>
+    <string name="upcoming">Up Coming</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">Movie Title</string>
+    <string name="tahun_movie">Movie Year</string>
+    <string name="description">Description</string>
+    <string name="toast_fav_add">Added to Favorite Movies</string>
+    <string name="toast_fav_remove">Removed from Favorite Movies</string>
+    <string name="favorite">Favorite</string>
+    <string name="change_language_setting">Change Language</string>
+    <string name="empty_fav">Favorite Movies is Empty</string>
+    <string name="search">Search</string>
+    <string name="search_fragment">Search Movie</string>
+    <string name="edt_search_movie">Search a Movie</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="fav_mov_empty">Favorite Movies is Empty</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="content_title">Good Morning! Looking For a Good Movie?</string>
+    <string name="content_text">Open our App Now! </string>
+    <string name="subtext">Daily Reminder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="daily_reminder">daily_reminder</string>
+    <string name="release_reminder">release_reminder</string>
+    <string name="summary_daily">Turn On or Turn Off Daily Notification</string>
+    <string name="daily_notification">Daily Notification</string>
+    <string name="release_notification">Release Today Notification</string>
+    <string name="release_summary">Turn On or Turn Off for Release Today Notification</string>
+    <string name="contenttext_today">Today</string>
+    <string name="contenttext_release">release!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
